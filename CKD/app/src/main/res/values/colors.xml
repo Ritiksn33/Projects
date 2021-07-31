@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name = "saved">#FF51D000</color>
+    <color name="nightmode">#6DFD7E3A</color>
+    <color name="normalmode">#00FD7E3A</color>
+</resources>

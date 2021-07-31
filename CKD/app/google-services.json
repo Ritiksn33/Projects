@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1099000468806",
+    "firebase_url": "https://collegekadost-ca2b6.firebaseio.com",
+    "project_id": "collegekadost-ca2b6",
+    "storage_bucket": "collegekadost-ca2b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099000468806:android:685fd83e14968e664d0147",
+        "android_client_info": {
+          "package_name": "com.ckd.CollegeKaDost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099000468806-r1epmc5egdtmaf015f4ot4jdt55736eo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ckd.CollegeKaDost",
+            "certificate_hash": "0928d99daf7fdab4dccc05bb1ca3c746ec8a225d"
+          }
+        },
+        {
+          "client_id": "1099000468806-m081ka7svnfgp24mohlaa7487gjlachv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcTQm-HIZhY3UAssmQiQK0O49xqQ4Rn6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099000468806-m081ka7svnfgp24mohlaa7487gjlachv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
