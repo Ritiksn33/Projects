@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">myBank</string>
+    <string name="userslist">View All Customers</string>
+</resources>
